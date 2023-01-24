@@ -1,4 +1,5 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Shivam Kumar ](mailto:shivam.kumar@owasp.org)
+* [Abhishek Singh](mailto:abhishek.singh@owasp.org)
+* [Yash Vishwakarma ](mailto:yash.vishwakarma@owasp.org)
+* [Ankur Ranu](mailto:ankur.ranu@owasp.org)
