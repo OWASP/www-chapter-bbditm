@@ -1,10 +1,10 @@
 ---
 
 layout: col-sidebar
-title: OWASP Babu Banarasi Das Institute of Technology and Management - Student Chapter
+title: OWASP Babu Banarasi Das Institute of Technology and Management (bbditm) - Student Chapter
 tags: Student Chapter
 region: Asia
-meetup-group: owasp-babu-banarasi-das-nittm
+meetup-group: owasp-bbditm
 country: India
 postal-code: 226028
 
